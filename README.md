@@ -9,4 +9,4 @@ This module is part of the [Apache Sling](https://sling.apache.org) project.
 It implements Annotations used to generate a Sling Adapter metadata JSON file.
 
 See also the newer https://github.com/apache/sling-org-apache-sling-adapter-annotations module which
-implemnents OSGi Declarative Services 1.4 component property type annotations for Sling Adapters.
+implements OSGi Declarative Services 1.4 component property type annotations for Sling Adapters.
