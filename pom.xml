@@ -35,6 +35,6 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-adapter-annotations.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-adapter-annotations.git</developerConnection>
-        <url>https://gitbox.apache.org/repos/asf?p=sling-adapter-annotations.git</url>
+        <url>https://github.com/apache/sling-adapter-annotations.git</url>
     </scm>
 </project>
