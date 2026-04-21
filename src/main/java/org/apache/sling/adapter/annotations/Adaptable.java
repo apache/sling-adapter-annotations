@@ -32,16 +32,14 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.CLASS)
 @Documented
 public @interface Adaptable {
-    
+
     /**
      * The class which can be adapted.
      */
     Class<?> adaptableClass();
-    
+
     /**
      * The possible adapters for this adaptable.
      */
     Adapter[] adapters();
-    
-
 }
