@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one
   or more contributor license agreements.  See the NOTICE file
@@ -21,10 +21,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>sling</artifactId>
         <groupId>org.apache.sling</groupId>
-        <version>48</version>
-        <relativePath/>
+        <artifactId>sling</artifactId>
+        <version>66</version>
+        <relativePath />
     </parent>
 
     <artifactId>adapter-annotations</artifactId>
@@ -37,4 +37,8 @@
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-adapter-annotations.git</developerConnection>
         <url>https://github.com/apache/sling-adapter-annotations.git</url>
     </scm>
+
+    <properties>
+        <sling.java.version>8</sling.java.version>
+    </properties>
 </project>
