@@ -45,7 +45,7 @@
 - Create a short-lived feature branch from `master`: `git checkout -b <type>/<short-description>`.
 - Commit messages should follow Apache Sling practice: include issue key when available, e.g. `SLING-12345 concise imperative summary`.
 - Open a PR targeting `master`; merged PR branches are auto-deleted (`.asf.yaml`).
-- Follow Apache Sling contribution guidance in `https://sling.apache.org/contributing.html`.
+- Follow Apache Sling contribution guidance in [Apache Sling contribution guidance](https://sling.apache.org/contributing.html).
 
 # Testing guidelines
 - Test framework: Maven Surefire (`maven-surefire-plugin`) runs unit tests with `mvn test`.
